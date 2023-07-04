@@ -16,7 +16,9 @@
 
 .formContainer {
   // background-color: #66739b;
-  background: url("../public/bg1.jpg");
+  background: url("../public/bg9.jpg");
+  background-blend-mode: darken;
+  // background: linear-gradient(46deg, black, #0a2e3f73);
   background-size: cover;
   height: 100vh;
   display: flex;
@@ -24,7 +26,8 @@
   justify-content: center;
 
   .formWrapper {
-    background-color: #ff0505;
+    // background-color: #ff0505;
+    backdrop-filter: blur(60px);
     padding: 20px 60px;
     border-radius: 10px;
     display: flex;
@@ -33,14 +36,14 @@
     align-items: center;
 
     .logo {
-      color: #ffffff;
+      color: #ff0000;
       font-weight: bold;
       font-size: 24px;
 
     }
 
     .title {
-      color: #ffffff;
+      color: #000000;
       font-size: 16px;
       font-weight: 700;
     }
