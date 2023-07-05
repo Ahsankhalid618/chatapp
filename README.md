@@ -25,7 +25,7 @@ The application allows multiple users to chat with each other in real-time and s
 * [CSS3](#CSS3)
 * [JavaScript](#JavaScript)
 * [React.js](#React.js)
-* [React redux](#React redux)
+* [React redux](#React_redux)
 * [Firebase](#Firebase)
 * [User Authentication](#User_Authentication)
 
